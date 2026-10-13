@@ -20,7 +20,7 @@ The course presented an event project with multiple tasks, spending controls, cl
 
 ## Evidence and limits
 
-[Read the reviewed responses](foundations-submissions.md). Coursera recorded 100% for the reflection. That grade supports completion of the learning activity; it does not demonstrate a real event outcome or prove professional delivery experience.
+[Read the reviewed responses](assignments.md). Coursera recorded 100% for the reflection. That grade supports completion of the learning activity; it does not demonstrate a real event outcome or prove professional delivery experience.
 
 ## Interview discussion
 
