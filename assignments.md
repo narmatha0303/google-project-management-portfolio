@@ -1,14 +1,18 @@
-# Assignment index
+# Assignment portfolio
 
-Replace each placeholder with your own completed assignment. Group work by the course names shown in your learning account.
+## Course 1 — Foundations of Project Management
 
-| Area | Assignment | Evidence | Status |
-| --- | --- | --- | --- |
-| Foundations | Project manager responsibilities and approach | To be added | Pending |
-| Initiation | Charter and stakeholder analysis | To be added | Pending |
-| Planning | Schedule, budget, and risk assessment | To be added | Pending |
-| Execution | Status reporting and change management | To be added | Pending |
-| Agile | Backlog, sprint planning, and retrospective | To be added | Pending |
-| Capstone | Integrated project documents and reflection | To be added | Pending |
+**Completed:** November 22, 2023 · **Grade:** 89.37%
 
-For each assignment, copy [the assignment template](assignment.md), explain the scenario in your own words, attach your deliverable, and state what you learned. Label simulated work clearly. Add course completion dates only when verified.
+- [Course and module results](foundations-course.md)
+- [Assignment inventory](foundations-assignments.md)
+- [Reviewed written submissions](foundations-submissions.md)
+- [Corporate retreat coursework case study](foundations-case-study.md)
+
+## Current learning
+
+Project Initiation: Starting a Successful Project is my current course. Its portfolio documents will be added separately.
+
+## Reusable documents
+
+The [project document templates](templates.md) are blank resources for future projects. They are not completed Course 1 assignments.
