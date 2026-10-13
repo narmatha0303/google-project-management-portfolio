@@ -1,34 +1,16 @@
-# Narmatha's Project Management Portfolio
+# Project Management Learning Portfolio
 
-Coursework, reviewed written assignments, and project management learning evidence from the Google Project Management Certificate program.
+## Progress
 
-**Owner:** [narmatha0303](https://github.com/narmatha0303)
+| Course | Status | Learning time | Assignments | Evidence |
+| --- | --- | --- | --- | --- |
+| 1 — Foundations of Project Management | Completed · 4/4 modules | 13 hours (learner reported) | 17 listed activities | [Course folder](course-01-foundations/) · [Certificate](https://www.coursera.org/account/accomplishments/verify/HNE69AGZYDFZ) |
 
-## Learning progress
+**Completed:** November 22, 2023 · **Grade:** 89.37%  
+**Last reviewed:** October 13, 2026
 
-| Course | Status | Evidence |
-| --- | --- | --- |
-| 1 — Foundations of Project Management | Completed November 22, 2023 · 89.37% | [Course record](foundations-course.md) · [Certificate](https://www.coursera.org/account/accomplishments/verify/HNE69AGZYDFZ) |
-| 2 — Project Initiation: Starting a Successful Project | Current course | Portfolio update to follow |
+The course folder contains [learning notes](course-01-foundations/learning.md), [assignments](course-01-foundations/assignments.md), [a case study](course-01-foundations/case-study.md), and [projects](course-01-foundations/projects.md).
 
-The Course 1 completion and grades were checked against Coursera on October 13, 2026. The full Professional Certificate is in progress.
+Update an assignment's status, add its deliverable and feedback, and record a short learning reflection as work progresses. Add the next course folder after completing that course.
 
-## Explore Course 1
-
-| Evidence | What to review |
-| --- | --- |
-| [Module results](foundations-course.md) | Four completed modules and passed challenges |
-| [Assignment inventory](foundations-assignments.md) | Recorded practice and graded activity statuses |
-| [Written submissions](foundations-submissions.md) | Reviewed responses and improvement notes |
-| [Corporate retreat case study](foundations-case-study.md) | Coursework analysis of decisions, communication, flexibility, and organization |
-| [Credentials](credentials.md) | Public course certificate verification |
-
-## Project resources
-
-[Reusable document templates](templates.md) · [Future project case study template](project-case-study.md) · [Interview walkthrough](project-walkthrough.md)
-
-These resources are blank templates. The corporate retreat case study is an analysis of a supplied scenario, not a project I personally delivered.
-
-## About this portfolio
-
-This independent learner portfolio is not affiliated with or endorsed by Google. Course prompts, assessment answer keys, and full course readings are not reproduced. Completed learning evidence, learner-written responses, and portfolio commentary are identified separately. Original submissions were reviewed without changing or resubmitting them.
+Independent learner portfolio. The full Google Project Management Professional Certificate is in progress.
