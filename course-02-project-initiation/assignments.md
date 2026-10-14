@@ -39,17 +39,18 @@ The resources outlined for the project include a maximum budget of $150,000 and 
 
 ### Module 1 Challenge — Graded assignment
 
-**Grade:** 100% · **Result:** Passed
+**Grade:** 100% · **Latest:** 100% · **Highest:** 100%  
+**Score:** 8/8 · **Passing requirement:** 80% · **Result:** Passed
 
-| Question | My credited answer | Explanation |
-| --- | --- | --- |
-| 1. What does initiation research, stakeholder consultation, and documentation clarify? | Project scope | Establishes what the project includes and excludes. |
-| 2. Which questions identify project costs? | What are the ongoing project costs? How much time will people have to spend on the project? | Consider recurring expenses and the time required from people. |
-| 3. What are the key components of initiation? | Goals, scope, deliverables, success criteria, stakeholders, and resources | These define why the project exists, what it produces, and what it needs. |
-| 4. Which component defines how a grocery delivery project's success is measured? | Success criteria | Defines measurable conditions for a successful outcome. |
-| 5. Which component is affected when a construction supplier runs out of steel girders? | Resources | Required materials are unavailable. |
-| 6. Which document requires stakeholder approval before planning? | A project charter | Aligns stakeholders on the project before detailed planning. |
-| 7. Which question assesses brand perception? | Is this project likely to improve the company's image and attract more customers? | Examines the project's effect on reputation and customer interest. |
-| 8. How is first-year ROI calculated? | (22,000 − 12,400) ÷ 12,400 ≈ 77% | Total cost = $10,000 + ($200 × 12) = $12,400. Net return = $9,600. ROI = 77.42%, rounded to 77%. |
+| Question | My answer | Score | Explanation |
+| --- | --- | --- | --- |
+| 1. What do initiation research, stakeholder consultation, and documentation solidify? | Project scope | 1/1 | Clarifies the boundaries of the project. |
+| 2. Investigating the value created and time saved is which part of cost-benefit analysis? | Benefit analysis | 1/1 | Identifies the value expected from the project. |
+| 3. Which component is a staff training meeting for a new product? | Deliverable | 1/1 | The training session is an output of the project. |
+| 4. Which component defines how a grocery delivery project's success is measured? | Success criteria | 1/1 | Defines how the outcome will be evaluated. |
+| 5. What term covers the budget, people, materials, and other necessities? | Resources | 1/1 | Resources are the inputs needed to complete the work. |
+| 6. Which document needs stakeholder approval before planning? | A project charter | 1/1 | Records agreement on the project before detailed planning. |
+| 7. What are gains that cannot be quantified called? | Intangible benefits | 1/1 | Benefits such as reputation or morale are difficult to measure numerically. |
+| 8. What is first-year ROI with $15,000 revenue, $10,000 upfront cost, and $100 monthly costs? | (15,000 − 11,200) ÷ 11,200 = 34% | 1/1 | Total cost = $10,000 + ($100 × 12) = $11,200. Net return = $3,800. ROI = 33.93%, rounded to 34%. |
 
-Questions are summarized. Answers follow the supplied “Nice work” feedback; explanations are portfolio notes.
+Recorded from the feedback screenshots supplied October 14, 2026. Questions are summarized; answers match the selected responses.
