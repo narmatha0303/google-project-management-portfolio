@@ -5,7 +5,7 @@
 ### Reflection: Project initiation and key components
 
 **Type:** Practice assignment · **Duration:** 27 min  
-**Grade:** Not provided · **Answers added:** October 14, 2026
+**Grade:** 100% · **Latest:** 100% · **Highest:** 100% · **Result:** Passed · **Answers added:** October 14, 2026
 
 **Scenario:** Develop a high school's digital grading platform. Teachers enter grades; students and parents view them. Budget is capped at $150,000, with one additional school IT team member available. The target is full teacher adoption within nine months. Attendance and lunch-payment systems are outside scope.
 
