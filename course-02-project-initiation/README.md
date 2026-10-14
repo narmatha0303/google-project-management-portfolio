@@ -4,4 +4,4 @@
 
 | Module | Assignment | Record | Grade |
 | --- | --- | --- | --- |
-| 1 — Fundamentals of project initiation | Reflection: Project initiation and key components | [Questions and my answers](assignments.md) | Not provided |
+| 1 — Fundamentals of project initiation | Reflection: Project initiation and key components | [Questions and my answers](assignments.md) | 100% — Passed |
